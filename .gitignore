@@ -1,0 +1,4 @@
+#git igonre file
+
+*.[oa]
+/node_modules/*

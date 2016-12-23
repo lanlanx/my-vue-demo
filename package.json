@@ -1,0 +1,22 @@
+{
+  "name": "blue86",
+  "version": "0.0.1",
+  "description": "my vue demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lanlanx/my-vue-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanlanx/my-vue-demo/issues"
+  },
+  "homepage": "https://github.com/lanlanx/my-vue-demo",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
+}
